@@ -45,7 +45,7 @@ The interactive dashboard provides a **one-stop view** of business performance w
 
 ## 🛠 Tech Stack
 - **Tool:** Tableau  
-- **Dataset:** Awesome Chocolate Company Sales (sample/mock dataset)  
+- **Dataset:** Awesome Chocolate Company Sales  
 - **Visuals Used:** Bar charts, KPI cards, ranking filters  
 
 ---

@@ -37,18 +37,9 @@ The interactive dashboard provides a **one-stop view** of business performance w
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_overview.png)
+![Dashboard Screenshot](Chocolate company Sales Insights.jpg)
 
-👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/your-dashboard-link)
-
----
-
-## ⚙️ How to Recreate
-
-1. Download the dataset (if available) from `/data/`.
-2. Open **Tableau Desktop** or **Tableau Public**.
-3. Connect the dataset and open the workbook (`Awesome_Chocolate_Dashboard.twbx`).
-4. Explore the filters, KPIs, and rankings.
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/nilay.khare6641/viz/Chocolatecompanyreport/Dashboard1?publish=yes)
 
 ---
 

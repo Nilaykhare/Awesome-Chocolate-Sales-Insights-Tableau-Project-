@@ -1,12 +1,12 @@
-# 🍫 Awesome Chocolate Sales Insights (Tableau Project)
+# Awesome Chocolate Sales Insights (Tableau Project)
 
-## 📊 Project Overview
+## Project Overview
 This Tableau project analyzes the sales performance of **Awesome Chocolate Company**, uncovering insights about countries, salespeople, products, and shipments.  
 The interactive dashboard provides a **one-stop view** of business performance with filtering, ranking, and key metrics.
 
 ---
 
-## 🗂 Dashboard Features
+## Dashboard Features
 
 - **Sales by Country (Bar Graph Filter)**  
   - A bar chart of sales by country acts as a global filter for the dashboard.  
@@ -28,7 +28,7 @@ The interactive dashboard provides a **one-stop view** of business performance w
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Country-level filtering allows quick drill-down into local markets.  
 - Top performers and products vary significantly between countries.  
@@ -36,7 +36,7 @@ The interactive dashboard provides a **one-stop view** of business performance w
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 ![Dashboard 1 Screenshot](https://github.com/Nilaykhare/Awesome-Chocolate-Sales-Insights-Tableau-Project-/blob/main/Chocolate%20company%20Sales%20Insights.jpg)
 ![Dashboard 2 Screenshot](https://github.com/Nilaykhare/Awesome-Chocolate-Sales-Insights-Tableau-Project-/blob/main/Chocolate%20company%20Sales%20Insights%20by%20country.jpg)
 
@@ -45,7 +45,7 @@ The interactive dashboard provides a **one-stop view** of business performance w
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Tool:** Tableau  
 - **Dataset:** Awesome Chocolate Company Sales  
 - **Visuals Used:** Bar charts, KPI cards, ranking filters  

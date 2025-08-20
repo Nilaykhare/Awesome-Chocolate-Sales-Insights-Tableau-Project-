@@ -40,8 +40,8 @@ The interactive dashboard provides a **one-stop view** of business performance w
 ![Dashboard 1 Screenshot](https://github.com/Nilaykhare/Awesome-Chocolate-Sales-Insights-Tableau-Project-/blob/main/Chocolate%20company%20Sales%20Insights.jpg)
 ![Dashboard 2 Screenshot](https://github.com/Nilaykhare/Awesome-Chocolate-Sales-Insights-Tableau-Project-/blob/main/Chocolate%20company%20Sales%20Insights%20by%20country.jpg)
 
-👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/nilay.khare6641/viz/Chocolatecompanyreport1/Dashboard2?publish=yes)
-👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/nilay.khare6641/viz/Chocolatecompanyreport2/Dashboard2?publish=yes)
+👉 [View Interactive Dashboard 1 on Tableau Public](https://public.tableau.com/app/profile/nilay.khare6641/viz/Chocolatecompanyreport1/Dashboard2?publish=yes)
+👉 [View Interactive Dashboard 2 on Tableau Public](https://public.tableau.com/app/profile/nilay.khare6641/viz/Chocolatecompanyreport2/Dashboard2?publish=yes)
 
 ---
 
